@@ -1,0 +1,15 @@
+
+body{
+    font-family:  sans-serif;
+    background-color: #fffefe99;
+    
+}
+.container{
+    
+    background-color:#d1ed7f;
+    outline: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    
+}
